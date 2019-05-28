@@ -1,0 +1,10 @@
+infested	-1
+brashness	-1
+swankier	1
+wail	-1
+savaged	-1
+sidetracked	-1
+unsteadily	-1
+satirical	-1
+hoard	-1
+joy	1  
