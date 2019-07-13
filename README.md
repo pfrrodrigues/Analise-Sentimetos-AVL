@@ -1,2 +1,2 @@
 # Sentiment-Analysis-ABP-AVL
-Projeto da disciplina de Estrutura de Dados  
+Projeto final da disciplina de Estrutura de Dados  
